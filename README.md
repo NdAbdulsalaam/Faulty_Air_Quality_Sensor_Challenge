@@ -1,7 +1,7 @@
 # Faulty-Air-Quality_Sensor_Challenge
 
 ## Overview
-Developing a multi-class classification model to identify and classify faults according to their categories specified. The model can be used by AirQo to automatically flag a device that is returning faulty data. 
+Developed a multi-class classification model to identify and classify faults according to their categories specified. The model can be used by AirQo to automatically flag a device that is returning faulty data. 
 
 ## About the data
 The datasets used are into three categories
